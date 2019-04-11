@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first visit render tree 1`] = `
+<div
+  className="App sc-gZMcBi ivEedh"
+>
+  <h1
+    className="sc-gqjmRU kngvag"
+  >
+     Gissues
+  </h1>
+  <div />
+</div>
+`;
