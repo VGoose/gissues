@@ -1,5 +1,13 @@
 # Gissues
-[See it live]()
+[See it live](https://nervous-lamport-4fbe08.netlify.com/)
+## Description
+Git Issues Viewer SPA
+Built with: 
+- React
+- Redux
+- Styled Components
+- Jest
+
 ## Installation
 Clone and install with `npm install` or `yarn`.  
 Run locally with `npm run start` or `yarn start`.
